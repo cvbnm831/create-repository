@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRUMPEPE - Make Memecoins Great Again!</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: gold;
+            color: #222;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 2.5em;
+            font-weight: bold;
+        }
+        nav {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        nav a:hover {
+            color: gold;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        .hero {
+            background: url('https://via.placeholder.com/1500x500') no-repeat center center/cover;
+            color: white;
+            padding: 100px 20px;
+            font-size: 2em;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: gold;
+            color: #222;
+            font-size: 1.5em;
+            text-decoration: none;
+            border-radius: 10px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #e6c200;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .feature {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px;
+            margin: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    TRUMPEPE
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#features">Why TRUMPEPE</a>
+    <a href="#buy">Buy Now</a>
+    <a href="#community">Community</a>
+</nav>
+
+<section class="hero">
+    <h1>Make Memecoins Great Again!</h1>
+    <p>Join the revolution and ride the next big wave in crypto.</p>
+    <a href="#buy" class="button">Buy TRUMPEPE Now</a>
+</section>
+
+<section id="about">
+    <h2>About TRUMPEPE</h2>
+    <p>TRUMPEPE is not just another memecoin—it’s a movement. Combining boldness, humor, and unstoppable energy, TRUMPEPE is here to dominate the crypto market.</p>
+</section>
+
+<section id="features">
+    <h2>Why Choose TRUMPEPE?</h2>
+    <div class="features">
+        <div class="feature">
+            <h3>🚀 Explosive Growth</h3>
+            <p>Get in early and watch your investment skyrocket!</p>
+        </div>
+        <div class="feature">
+            <h3>🔥 Community-Powered</h3>
+            <p>Join an unstoppable community of meme lovers and crypto enthusiasts.</p>
+        </div>
+        <div class="feature">
+            <h3>💎 HODL Strong</h3>
+            <p>Hold tight and reap the rewards as TRUMPEPE takes off.</p>
+        </div>
+    </div>
+</section>
+
+<section id="buy">
+    <h2>How to Buy TRUMPEPE</h2>
+    <p>Don’t miss out on the opportunity to be part of the next big crypto sensation. Get your TRUMPEPE tokens today!</p>
+    <a href="#" class="button">Buy Now</a>
+</section>
+
+<section id="community">
+    <h2>Join the TRUMPEPE Community</h2>
+    <p>Connect with thousands of supporters worldwide. Follow us on social media and be part of the conversation!</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 TRUMPEPE Token. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
